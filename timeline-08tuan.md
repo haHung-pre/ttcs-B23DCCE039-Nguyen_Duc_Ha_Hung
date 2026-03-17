@@ -11,7 +11,7 @@
 |---------------|-----------------------------------------------------|
 | Họ tên        | Nguyễn Đức Hà Hùng                                    |
 | MSSV          | B23DCCE039                                         |
-| Lớp           | D23CQPT01-B                                         |
+| Lớp           | D23CQCE06-B                                        |
 | Email         | HungNDH.B23CE039@stu.ptit.edu.vn                  |
 | GitHub username | haHung-pre                                |
 | Link repository | https://github.com/haHung-pre/ttcs-B23DCCE039-Nguyen_Duc_Ha_Hung/edit/main/timeline-08tuan.md |
