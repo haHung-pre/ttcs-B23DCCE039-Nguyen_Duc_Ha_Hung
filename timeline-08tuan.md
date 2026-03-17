@@ -312,7 +312,7 @@
 > *(cập nhật liên tục trong suốt quá trình)*
 
 **Link repository cuối cùng:**
-> [https://github.com/nguyenvanan-ptit/ttcs-B23DCPT001-nguyenvanan](https://github.com/haHung-pre/ttcs-B23DCCE039-Nguyen_Duc_Ha_Hung/edit/main/timeline-08tuan.md)
+> https://github.com/haHung-pre/ttcs-B23DCCE039-Nguyen_Duc_Ha_Hung/edit/main/timeline-08tuan.md
 
 ---
 
