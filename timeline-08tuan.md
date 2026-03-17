@@ -14,7 +14,7 @@
 | Lớp           | D23CQCE06-B                                        |
 | Email         | HungNDH.B23CE039@stu.ptit.edu.vn                  |
 | GitHub username | haHung-pre                                |
-| Link repository | https://github.com/haHung-pre/ttcs-B23DCCE039-Nguyen_Duc_Ha_Hung/edit/main/timeline-08tuan.md |
+| Link repository | https://github.com/haHung-pre/ttcs-B23DCCE039-Nguyen_Duc_Ha_Hung |
 
 ---
 
@@ -312,7 +312,7 @@
 > *(cập nhật liên tục trong suốt quá trình)*
 
 **Link repository cuối cùng:**
-> https://github.com/haHung-pre/ttcs-B23DCCE039-Nguyen_Duc_Ha_Hung/edit/main/timeline-08tuan.md
+> https://github.com/haHung-pre/ttcs-B23DCCE039-Nguyen_Duc_Ha_Hung
 
 ---
 
